@@ -1,5 +1,5 @@
 # Bone age Prediction
-## Deep CNN Approaces for predicting bone age from hand X-ray radiographs
+## Deep CNN Approaches for predicting bone age from hand X-ray radiographs
 
 Deep ConvolutionalNeural Networks (CNNs) have proven to be a powerful tool
 for image classification, image regression, machine vision, and
